@@ -51,7 +51,7 @@ public class Henkilo {
         viikkotunnitStr = viikkotunnitStr.replace('.', ',');
         tulos.append(viikkotunnitStr).append(" h");
         return tulos.toString();
-//        return "Henkilo{\n" + "\tsukunimi=" + sukunimi + "\n\tsyntymavuosi=" + syntymavuosi + "\n\tvuosipalkka=" + vuosipalkka + "eur\n\tviikkotunnit=" + viikkotunnit + "h\n}";
+        //return "Henkilo{\n" + "\tsukunimi=" + sukunimi + "\n\tsyntymavuosi=" + syntymavuosi + "\n\tvuosipalkka=" + vuosipalkka + "eur\n\tviikkotunnit=" + viikkotunnit + "h\n}";
     }
 
 //    @Override
