@@ -9,7 +9,7 @@ public final class Henkilodata {
     }
 
     public static String[] haeHenkilonimet() {
-        return new String[]{"Janne", "Panu", "Antti", "Kalle"};
+        return new String[]{"Janne", "Panu", "Antti", "Kalle", "Simo"};
     }
 
     public static String haeHenkilonTiedot() {
